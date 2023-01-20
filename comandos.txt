@@ -1,8 +1,17 @@
 git version
 
-git init : crea el directorio .git
+git init (solamente se hace una vez): crea el directorio .git
 
 git status: visualiza archivos modificados, nuevos en el repositorio y eliminados
 
 
-git add <archivo>: agrega el archivo a stage area
+git add <archivo>: agrega el archivo a stage area o area temporal
+
+git commit -m "mensaje" : agrega los archivos al repositorio local
+
+
+git log --oneline: visualiza todos los commit que hayamos hecho
+
+
+
+este es un texto erroneo para prueba
