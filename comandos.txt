@@ -1,0 +1,8 @@
+git version
+
+git init : crea el directorio .git
+
+git status: visualiza archivos modificados, nuevos en el repositorio y eliminados
+
+
+git add <archivo>: agrega el archivo a stage area
